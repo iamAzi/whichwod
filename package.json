@@ -1,0 +1,23 @@
+{
+  "name": "whichwod",
+  "version": "1.0.0",
+  "description": "wod generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamAzi/whichwod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamAzi/whichwod/issues"
+  },
+  "homepage": "https://github.com/iamAzi/whichwod#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
